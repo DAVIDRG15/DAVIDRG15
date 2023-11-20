@@ -2,6 +2,8 @@
 
 I'm David Resendiz, passionate about programming and technology.
 
+-📍Monterrey, Nuevo León, México
+
 ## About Me
 
 - 🌱 Currently, I'm learning Backend Web Development.
